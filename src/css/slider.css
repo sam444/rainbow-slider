@@ -1,0 +1,10 @@
+.tooltip.in
+{
+    opacity: 0.9
+}
+
+.slider.slider-horizontal .slider-track
+{
+    height:2px;
+    margin-top:0;
+}
